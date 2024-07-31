@@ -76,11 +76,15 @@
     [],
     [],
     [
-      "minecraft:underwater_magma"
+      "minecraft:underwater_magma",
+      "kattersstructures:horn_coral_patch"
     ],
     [],
     [],
-    [],
+    [
+      "kattersstructures:coral_tree",
+      "kattersstructures:corals"
+    ],
     []
   ]
 }

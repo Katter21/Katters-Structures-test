@@ -5,7 +5,7 @@
       "fallback": {
         "type": "minecraft:simple_state_provider",
         "state": {
-          "Name": "minecraft:soul_sand"
+          "Name": "minecraft:horn_coral_block"
         }
       },
       "rules": []
@@ -17,7 +17,10 @@
           "type": "minecraft:not",
           "predicate": {
             "type": "minecraft:matching_blocks",
-            "blocks": "minecraft:bedrock"
+            "blocks": [
+              "minecraft:bedrock",
+              "minecraft:bubble_coral_block"
+            ]
           }
         },
         {
@@ -25,7 +28,7 @@
         }
       ]
     },
-    "radius": 3,
-    "half_height": 0
+    "radius": 8,
+    "half_height": 2
   }
 }

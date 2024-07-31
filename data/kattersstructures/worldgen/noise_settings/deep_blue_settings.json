@@ -1,5 +1,5 @@
 {
-  "sea_level": 385,
+  "sea_level": 128,
   "disable_mob_generation": false,
   "aquifers_enabled": true,
   "ore_veins_enabled": true,
@@ -42,10 +42,10 @@
       "shift_y": 0,
       "shift_z": "minecraft:shift_z"
     },
-    "continents": "minecraft:overworld/continents",
-    "erosion": "minecraft:overworld/erosion",
-    "depth": "minecraft:overworld/depth",
-    "ridges": "minecraft:overworld/ridges",
+    "continents": 0,
+    "erosion": 0,
+    "depth": 0,
+    "ridges": 0,
     "initial_density_without_jaggedness": 0,
     "final_density": {
       "type": "minecraft:squeeze",
