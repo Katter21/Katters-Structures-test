@@ -93,7 +93,9 @@
       "minecraft:underwater_magma"
     ],
     [],
-    [],
+    [
+      "kattersstructures:kelp"
+    ],
     [],
     []
   ]

@@ -1,9 +1,9 @@
 {
-    "feature": "kattersstructures:boulder",
+    "feature": "kattersstructures:fire_coral_tree",
     "placement": [
       {
         "type": "minecraft:count_on_every_layer",
-        "count": 6
+        "count": 20
       },
       {
         "type": "minecraft:biome"
@@ -21,8 +21,7 @@
                 0
               ],
               "blocks": [
-                "minecraft:dead_bubble_coral_block",
-                "minecraft:dead_brain_coral_block"
+                "minecraft:fire_coral_block"
               ]
             }
           ]
