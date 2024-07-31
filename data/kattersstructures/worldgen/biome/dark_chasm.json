@@ -8,8 +8,8 @@
     "fog_color": 0,
     "water_color": 0,
     "water_fog_color": 0,
-    "grass_color": 1903655,
-    "foliage_color": 1903655,
+    "grass_color": 3352858,
+    "foliage_color": 3352858,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -27,6 +27,12 @@
         "weight": 10,
         "minCount": 1,
         "maxCount": 5
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 5
       }
     ],
     "underground_water_creature": []
@@ -41,12 +47,14 @@
     [],
     [],
     [
-      "minecraft:underwater_magma"
+      "minecraft:underwater_magma",
+      "kattersstructures:underwarter_soul_sand"
     ],
     [],
     [],
     [
-      "kattersstructures:dead_coral_tree"
+      "kattersstructures:dead_coral_tree",
+      "kattersstructures:dead_corals"
     ],
     []
   ]
