@@ -80,7 +80,9 @@
       "kattersstructures:horn_coral_patch",
       "kattersstructures:fire_coral_patch"
     ],
-    [],
+    [
+      "kattersstructures:light_collum"
+    ],
     [],
     [
       "kattersstructures:bubble_coral_tree",

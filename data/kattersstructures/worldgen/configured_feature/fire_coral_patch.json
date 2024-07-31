@@ -19,7 +19,10 @@
             "type": "minecraft:matching_blocks",
             "blocks": [
               "minecraft:bedrock",
-              "minecraft:bubble_coral_block"
+              "minecraft:bubble_coral_block",
+              "fire_coral_block",
+              "minecraft:tube_coral_block",
+              "minecraft:sea_lantern"
             ]
           }
         },
