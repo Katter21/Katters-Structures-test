@@ -22,7 +22,8 @@
               "minecraft:bubble_coral_block",
               "fire_coral_block",
               "minecraft:tube_coral_block",
-              "minecraft:sea_lantern"
+              "minecraft:sea_lantern",
+              "minecraft:smooth_sandstone"
             ]
           }
         },
